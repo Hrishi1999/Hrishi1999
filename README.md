@@ -21,10 +21,6 @@ I am a Computer Engineer who is currently studying from Gujarat Technological Un
 <br />
 <br />
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Hrishi Spotify Playing" width="350" />](https://open.spotify.com/user/fw47e769g6dvatlf0mia1ovsr)
-
 ### Connect with me:
 
 [<img align="left" alt="Hrishi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
