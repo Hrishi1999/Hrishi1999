@@ -22,11 +22,9 @@ I am a Computer Engineer who is currently studying from Gujarat Technological Un
 <br />
 
 ### Connect with me:
-
-[<img align="left" alt="Hrishi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Hrishi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Hrishi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Hrishi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Twitter](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=purple)][instagram]
 
 <br />
 <br />
