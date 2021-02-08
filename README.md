@@ -26,9 +26,6 @@ I am a Computer Engineer who is currently studying from Gujarat Technological Un
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
 [![Instagram](https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=Instagram&logoColor=purple)][instagram]
 
-<br />
-<br />
-
 [website]: https://hrishi.tech
 [twitter]: https://twitter.com/hrishi_55
 [instagram]: https://instagram.com/picleric
