@@ -8,19 +8,6 @@
 
 I am a Computer Engineer who is currently studying from Gujarat Technological University, who has a keen interest in full stack development and machine learning. 
 
-<summary>:zap: GitHub Stats</summary>
-<br />
-<img align="left" alt="Hrishi's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hrishi1999&show_icons=true&hide_border=true&theme=radical" />
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)][twitter]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=blue)][linkedin]
