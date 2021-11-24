@@ -15,5 +15,5 @@ I am a Computer Engineer who is currently studying from Gujarat Technological Un
 
 [website]: https://hrishi.tech
 [twitter]: https://twitter.com/hrishi_55
-[instagram]: https://instagram.com/picleric
+[instagram]: https://instagram.com/hrishiipatel
 [linkedin]: https://www.linkedin.com/in/hrishi-patel-ba8476140/
