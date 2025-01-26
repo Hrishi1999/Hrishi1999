@@ -6,7 +6,7 @@
 
 ## I'm a Full Stack Developer and ML Enthusiast
 
-I am a currently pursuing Master of Applied Computer Science at Dalhousie University who has a keen interest in full-stack development and machine learning. 
+I am SDE 2 at the Government of Canada (Canada Revenue Agency). I am also working on Apifi - The marketplace of solutions and AI agents :)
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)][twitter]
