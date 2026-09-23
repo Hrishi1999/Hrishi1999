@@ -6,7 +6,7 @@
 
 ## I'm a Full Stack Developer and ML Enthusiast
 
-I am SDE 2 at the Government of Canada (Canada Revenue Agency). I am also working on Apifi - The marketplace of solutions and AI agents :)
+I am Product Engineering Lead at Psyncopate. 
 
 ### Connect with me:
 [![Twitter](https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=Twitter&logoColor=#1DA1F2)][twitter]
